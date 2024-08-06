@@ -1,12 +1,12 @@
 {
-    "name": "darryldecode/cart",
-    "description": "Laravel 5 Shopping cart",
+    "name": "majidshoping/cart",
+    "description": "Laravel 11 Shopping cart",
     "keywords": ["laravel", "shopping cart", "cart"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Darryl Fernandez",
-            "email": "engrdarrylfernandez@gmail.com"
+            "name": "Majid shah",
+            "email": "shahmajid508@gmail.com"
         }
     ],
     "require": {
